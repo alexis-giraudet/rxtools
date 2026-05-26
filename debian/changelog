@@ -1,3 +1,9 @@
+rxtools (26.0.0-1) UNRELEASED; urgency=low
+
+  * See https://www.septentrio.com/system/files/support/rxtools_v26.0.0_release_notes.pdf
+
+ -- Alexis Giraudet <alexis.giraudet@nav-timing.safrangroup.com>  Tue, 26 May 2026 16:55:19 +0200
+
 rxtools (25.0.0-1) UNRELEASED; urgency=low
 
   * See https://www.septentrio.com/system/files/support/rxtools_v25.0.0_release_notes.pdf
