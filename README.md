@@ -15,4 +15,3 @@ sudo apt install "$PWD"/rxtools*.deb
 sudo usermod -aG dialout "$USER"
 ```
 4. Reboot or logout/login.
-5. 
